@@ -13,3 +13,5 @@ A crucial component of our setup is Llama.cpp, a library that enables the infere
 For orchestrating our application components, I introduce LangChain, an orchestration framework that seamlessly integrates our tools and services, ensuring smooth operation and scalability.
 
 On the backend, I leverage FastAPI, a modern, fast (high-performance) web framework for building APIs with Python 3.7+. Finally, for the web UI, I employ Bootstrap 5.3, the latest version of the world’s most popular front-end open-source toolkit. This enables us to create a sleek, intuitive, and mobile-responsive user interface that makes our medical RAG application accessible and easy to use. Read more about bootstrap here https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+![medical_RAG_chatbot](https://github.com/rohit180497/Medical-ChatBot-BioMistral7B/assets/82594070/4a8c31b6-be4c-4446-968d-df3bb7657be8)
